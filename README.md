@@ -1,10 +1,5 @@
-# Blitzing Digital Electronics: A Curriculum to Learn FPGA Dev Fast
-
-
-## **Primer:**
-
-- [ ]  [What is an FPGA? (EEVblog)](https://youtu.be/gUsHwi4M4xE) A thorough overview of FPGAs, how they work inside, and comparison with a microcontroller.
-- [ ]  [Microchip Manufacturing - How computer chips get made!](https://www.youtube.com/watch?v=aBDJQ9NYTEU&t=91s)
+# Blitzing Digital Electronics: A Rough Curriculum
+### Inspired and Slightly Modified Version of the TinyVision.AI Course
 
 ## Section 1: Introduction to digital electronics, FPGA’s and environment setup:
 
@@ -45,6 +40,12 @@
 ### Material:
 
 - [ ]  [Shawn Hymel 3](https://www.youtube.com/watch?v=A4VfBoP4Hdk&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=3&pp=iAQB)
+- [ ]  HDL Bits
+    - [ ]  Basics
+    - [ ]  Vectors
+    - [ ]  Modules: Hierarchy
+    - [ ]  Procedure
+    - [ ]  More Verilog Features
 - [ ]  [Preface for ZipCPU Resource](https://zipcpu.com/tutorial/lsn-00-preface.pdf)
 - [ ]  Setup Verilator
 - [ ]  [ZipCPU Wires and Combinatorial logic](http://zipcpu.com/tutorial/lsn-01-wires.pdf)
@@ -57,6 +58,11 @@
         - [ ]  [What are multiplexers good for? (10:10)](https://youtu.be/XQ4NVl9lBJA)
         - [ ]  [Implementing logic with multiplexers (11:48)](https://youtu.be/yR4qEI4h1z0)
     - [ ]  Combination LSI
+- [ ]  HDL Bits
+    - [ ]  Basic Gates
+    - [ ]  MUX
+    - [ ]  Arithmetic Circuits
+    - [ ]  K Maps to Circuits
 
 ### Challenge:
 
@@ -111,6 +117,11 @@
     - [ ]  [Latch and flip-flop operation (Intermation)](https://youtu.be/lVXjI8Mpu4w)
     - [ ]  [Timing diagrams of flip-flops and latches (Intermation)](https://youtu.be/moxMU86NeVI)
 - [ ]  First Half: [PS/2 Keyboard](https://www.youtube.com/watch?v=7aXbh9VUB3U) // Cool Use of Shift Register
+- [ ]  HDL Bits
+    - [ ]  Latches and Flip Flops
+    - [ ]  Counters
+    - [ ]  Shift Registers
+    - [ ]  More Circuits
 
 ### Challenge:
 
@@ -141,6 +152,9 @@ Challenge: Use Circuitverse or preferably SystemVerilog to create a 4-bit binary
 - [ ]  [Shawn Hymmel Pt 5](https://www.youtube.com/watch?v=pK6XN7sFosI&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=5&t=61s&pp=iAQB)
 - [ ]  [Sunburst paper on State Machines](http://www.sunburst-design.com/papers/CummingsSNUG2019SV_FSM1.pdf)
 - [ ]  [ZipCPU Finite State Machines](http://zipcpu.com/tutorial/lsn-03-fsm.pdf)
+- [ ]  HDL Bits
+    - [ ]  FSM
+    - [ ]  Building Larger Circuits
 
 ### Challenge:
 
@@ -171,6 +185,9 @@ Code up a state machine for a traffic light. Here are the specifications:
 
 - [ ]  [Shawn Hymmel Pt 6](https://www.youtube.com/watch?v=0BKyiY8R5NU&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=6&t=77s&pp=iAQB)
 - [ ]  [Shawn Hymmel Pt 7](https://www.youtube.com/watch?v=ykBi2H2NGyA&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=7&pp=iAQB)
+- [ ]  HDL Bits
+    - [ ]  Verification: Reading Simulations
+    - [ ]  Verification: Writing Test Benches
 - [ ]  Skim Harris Ch 4.
 - [ ]  Skim Harris 5.1 - 5.4 Harris
 - [ ]  Harris 5.5
@@ -191,3 +208,11 @@ Code up a state machine for a traffic light. Here are the specifications:
 - What if you wanted double the bitwidth? How would you restructure the smaller memories?
 
 ## Section 6: Blitz Wrap-Up
+
+### Material:
+
+- [ ]  [Shawn Hymel Pt 9](https://www.youtube.com/watch?v=A4VfBoP4Hdk&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=3&pp=iAQB)
+- [ ]  [Shawn Hymel Pt 10](https://www.youtube.com/watch?v=dXU1py-Od1g&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=10&t=1s&pp=iAQB)
+- [ ]  [Shawn Hymel Pt 11](https://www.youtube.com/watch?v=gJno9TloDj8&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=11&t=4s&pp=iAQB)
+- [ ]  [Shawn Hymel Pt 12](https://www.youtube.com/watch?v=DtAwbKqLA5Y&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb&index=12&t=150s&pp=iAQB)
+- [ ]  [Digital to FPGA 101](https://youtu.be/FcFbFTbngrw)
