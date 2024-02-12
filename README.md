@@ -1,4 +1,4 @@
-# Blitzing Digital Electronics: A Rough Curriculum
+# Digital Electronics: A Rough Curriculum
 ### Inspired and Slightly Modified Version of the TinyVision.AI Course
 
 ## Section 1: Introduction to digital electronics, FPGA’s and environment setup:
